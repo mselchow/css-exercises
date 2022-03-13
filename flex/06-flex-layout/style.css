@@ -56,3 +56,10 @@ a {
 .right-links {
   gap: 16px;
 }
+
+.content {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
