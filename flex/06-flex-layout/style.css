@@ -36,3 +36,19 @@ a {
   text-decoration: none;
   color: darkslategray;
 }
+
+.header,
+.left-links,
+.right-links {
+  display: flex;
+}
+
+.header {
+  justify-content: space-between;
+  padding: 12px;
+}
+
+.left-links,
+.right-links {
+  gap: 16px;
+}
