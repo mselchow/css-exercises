@@ -17,6 +17,7 @@ img {
 .plant-section {
   display: flex;
   justify-content: space-evenly;
+  gap: 52px;
 }
 
 .plant {
