@@ -22,6 +22,19 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  padding: 16px;
+}
+
+.sidebar a {
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
 }
 
 .card {
