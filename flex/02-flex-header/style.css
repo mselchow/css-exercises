@@ -6,11 +6,6 @@
   align-items: center;
 }
 
-.left-links,
-.right-links {
-  display: flex;
-}
-
 .logo {
   font-size: 48px;
   font-weight: 900;
@@ -24,6 +19,7 @@ ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
+  display: flex;
 }
 
 a {
