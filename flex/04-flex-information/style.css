@@ -16,15 +16,16 @@ img {
 
 .plant-section {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   gap: 52px;
 }
 
 .plant {
   display: flex;
-  flex-direction: column;
   flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
+  flex: 1 0 200px;
 }
 
 .text {
