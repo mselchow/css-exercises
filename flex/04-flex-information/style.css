@@ -15,6 +15,14 @@ img {
 
 .plant-section {
   display: flex;
+  justify-content: space-evenly;
+}
+
+.plant {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
 }
 
 /* do not edit this footer */
