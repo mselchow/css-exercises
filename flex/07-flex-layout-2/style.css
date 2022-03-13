@@ -25,6 +25,7 @@ body {
   width: 300px;
   background: royalblue;
   padding: 16px;
+  flex: 0 0 300px;
 }
 
 .sidebar a {
@@ -43,4 +44,8 @@ ul {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0, 0, 0, .06);
   border-radius: 4px;
+}
+
+.center {
+  display: flex;
 }
